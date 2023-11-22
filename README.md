@@ -31,4 +31,4 @@ The fuzzy inference system used in this study is Mamdani method. It will utilisi
 The output distribution will be defuzzifying to crisp output (fall risk level- 0 to 10) by using the centroid of area method for defuzzification.
 
 ## Testing
-You can evaluate the fall risk by inserting the input value: hand grip strength, TUGs, MoCa Score. In addition, you can add more input variable for more complex analysis but be careful about the membership function design.
+You can evaluate the fall risk by inserting the input value: hand grip strength, TUGs, MoCa Score. As further development, you can add more input variable for more complex analysis but be careful about the membership function and inference rule design.
